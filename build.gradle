@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'aabss'
+group = 'cc.aabss'
 version = '1.0-SNAPSHOT'
 
 repositories {

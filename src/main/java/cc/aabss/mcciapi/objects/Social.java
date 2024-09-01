@@ -1,4 +1,4 @@
-package aabss.mcciapi.objects;
+package cc.aabss.mcciapi.objects;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package aabss.mcciapi.objects;
+package cc.aabss.mcciapi.objects;
 
 /**
  * A player's current status.

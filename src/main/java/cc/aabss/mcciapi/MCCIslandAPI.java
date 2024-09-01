@@ -1,6 +1,6 @@
-package aabss.mcciapi;
+package cc.aabss.mcciapi;
 
-import aabss.mcciapi.objects.*;
+import cc.aabss.mcciapi.objects.*;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;

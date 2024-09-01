@@ -1,4 +1,4 @@
-package aabss.mcciapi.objects;
+package cc.aabss.mcciapi.objects;
 
 /**
  * A player with just the uuid or username, can be turned into a {@link Player} object later.

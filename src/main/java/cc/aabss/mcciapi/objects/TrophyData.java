@@ -1,4 +1,4 @@
-package aabss.mcciapi.objects;
+package cc.aabss.mcciapi.objects;
 
 /**
  * Data on the amount of trophies a user has/can have.

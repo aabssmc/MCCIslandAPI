@@ -1,4 +1,4 @@
-package aabss.mcciapi.objects;
+package cc.aabss.mcciapi.objects;
 
 public record StatisticValueResult(Statistic statistic, int value) {
 
