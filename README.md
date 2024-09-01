@@ -31,3 +31,6 @@ Maven:
     <version>1.0</version>
   </dependency>
 ```
+
+## Contributing
+If you want to contribute, you can report bugs or make a suggestion at [the issues tab](https://github.com/aabssmc/MCCIslandAPI/issues) or if you wanna help commit fixes or add features, [make a pull request](https://github.com/aabssmc/MCCIslandAPI/pulls)! All help is very much appreciated across all my projects.
